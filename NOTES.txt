@@ -1,7 +1,0 @@
-Le design pattern observer nous permet de mettre en place des comportements supplementaires sur un bouton sans modifier le code du boutton lui même. Il correspond au deuxième principe SOLID (OCP).
-Ce pattern est une implémentation possible du principe open/closed. On a aussi le design pattern mediateur
-
-
-
-
-const messagerie = require('./messagerie');
